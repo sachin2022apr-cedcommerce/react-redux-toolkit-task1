@@ -1,0 +1,25 @@
+.App {
+  text-align: center;
+}
+button{
+  font-size: 25px;
+  background-color: rgb(245, 245, 245);
+  border: 2px solid rgb(189, 189, 189);
+  padding: 5px 10px;
+  cursor: pointer;
+}
+h1{
+  display: inline;
+}
+.divClass{
+  margin-top: 20px;
+}
+input{
+  font-size: 20px;
+}
+select{
+  font-size: 22px;
+  border: none;
+  outline: none;
+  background-color: white;
+}
